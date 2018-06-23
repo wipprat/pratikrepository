@@ -1,2 +1,1 @@
-# pratikrepository
-public
+# maven
